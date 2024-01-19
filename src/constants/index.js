@@ -94,10 +94,10 @@ const technologies = [
     name: "Redux Toolkit",
     icon: redux,
   },
-  {
+  /*   {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
+  }, */
   {
     name: "Node JS",
     icon: nodejs,
@@ -110,10 +110,10 @@ const technologies = [
     name: "Three JS",
     icon: threejs,
   },
-  {
+  /*   {
     name: "git",
     icon: git,
-  },
+  }, */
   {
     name: "Java",
     icon: javaicon,
@@ -126,10 +126,10 @@ const technologies = [
     name: "Springboot",
     icon: springbooticon,
   },
-  {
+  /*   {
     name: "Firebase",
     icon: firebaseicon,
-  },
+  }, */
 ];
 
 const experiences = [
